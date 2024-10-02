@@ -1,5 +1,5 @@
 {
-  "name": "client",
+  "name": "zk1-client",
   "version": "0.1.0",
   "private": true,
   "scripts": {
